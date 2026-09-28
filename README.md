@@ -9,6 +9,13 @@ Preview-only static website for the future `https://investinpower.org` property.
 - Mission, audience, primary action, programs, ownership, contact, and privacy copy remain visibly marked placeholders.
 - Canonical metadata is prepared for `https://investinpower.org`, but the domain must not be attached and DNS must not change until separately approved.
 
+## Preview deployment
+
+- URL: https://investinpower-2ruf91jna-5280menu.vercel.app
+- Vercel deployment: `dpl_49HRPpWJaUg6DYe9zD4B3yV6eY6D`
+- State: ready, preview target, no aliases
+- `investinpower.org`: not attached; DNS unchanged
+
 ## Local review
 
 ```bash
