@@ -1,0 +1,10 @@
+.git
+.vercel
+.env
+.env.*
+.DS_Store
+node_modules
+output
+scripts
+README.md
+PLACEHOLDERS.md

@@ -1,0 +1,14 @@
+{
+  "name": "investinpower",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Preview-only static site for investinpower.org",
+  "scripts": {
+    "test": "PREVIEW_ONLY=1 node scripts/validate.mjs",
+    "validate:preview": "PREVIEW_ONLY=1 node scripts/validate.mjs",
+    "validate:production": "node scripts/validate.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
